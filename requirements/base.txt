@@ -1,0 +1,3 @@
+faststream[rabbit]==0.5.28
+faststream[cli]==0.5.28
+pydantic-settings==2.5.2
